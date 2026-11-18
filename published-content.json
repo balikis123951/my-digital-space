@@ -7,8 +7,28 @@
     "github": "https://github.com/balikis123951/my-digital-space.git",
     "email": "enepeace34@gmail.com"
   },
-  "projects": [],
-  "entries": [],
+  "projects": [
+    {
+      "id": "1795014784720-h8larh",
+      "name": "My Digital Space",
+      "description": "My personal portfolio and daily learning journal, built to showcase projects, track my skills, and document my learning journey.",
+      "tech": "HTML,CSS,JAVIA SCRIPT",
+      "link": "",
+      "github": ""
+    }
+  ],
+  "entries": [
+    {
+      "id": "1795015036098-byonyk",
+      "date": "2026-11-18",
+      "topic": "python functions",
+      "duration": 1,
+      "mood": "Challenging",
+      "learned": "I learnt some futures in python,now i understood how loop,function works in python.",
+      "practical": "I built a CLI-CALCULATOR",
+      "next": "Am planing on building a game app."
+    }
+  ],
   "skills": [],
   "goal": {
     "text": "",
